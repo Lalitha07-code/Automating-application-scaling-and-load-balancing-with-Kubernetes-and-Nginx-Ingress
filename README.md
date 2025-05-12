@@ -121,10 +121,10 @@ In this project, we:
 
 | Member | Role | Responsibilities |
 |--------|------|------------------|
-| *Member 1* | DevOps Engineer (Kubernetes Specialist) | Set up clusters, deploy apps, manage autoscaling |
-| *Member 2* | Ingress & Networking Engineer | Configure Nginx Ingress, DNS, and routing rules |
-| *Member 3* | Application Developer / Containerization Specialist | Develop or dockerize apps, write Dockerfiles |
-| *Member 4* | Monitoring & CI/CD Engineer | Set up Prometheus, Grafana, and CI/CD pipelines |
+| *Kirthika.R* | DevOps Engineer (Kubernetes Specialist) | Set up clusters, deploy apps, manage autoscaling |
+| *Lalitha.P* | Ingress & Networking Engineer | Configure Nginx Ingress, DNS, and routing rules |
+| *Mathav kumar* | Application Developer / Containerization Specialist | Develop or dockerize apps, write Dockerfiles |
+| *Rahul kanna* | Monitoring & CI/CD Engineer | Set up Prometheus, Grafana, and CI/CD pipelines |
 
 ---
 
